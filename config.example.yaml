@@ -1,0 +1,5 @@
+server:
+  fairplay:
+    certificate: ""
+    private: ""
+    ask: ""
